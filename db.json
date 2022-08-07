@@ -2,6 +2,7 @@
   "notes":[
   {
   "id":1,
+  "title":"Title1",
   "content":"Test",
   "folder":"First Folder",
   "createdAt":"2022-08-07T07:14:18.612Z",
@@ -9,29 +10,33 @@
   },
   {
   "id":2,
+  "title":"Title2",
   "content":"Test data",
-  "folder":"Second Folder",
+  "folder":"First Folder",
   "createdAt":"2022-08-07T07:14:18.612Z",
   "updatedAt":"2022-08-07T07:14:25.612Z"
   },
   {
   "id":3,
   "content":"Test new area",
-  "folder":"Third Folder",
+  "title":"Title3",
+  "folder":"Second Folder",
   "createdAt":"2022-08-07T07:14:18.612Z",
   "updatedAt":"2022-08-07T07:14:25.612Z"
   },
   {
   "id":4,
   "content":"Test",
-  "folder":"Fourth Folder",
+  "title":"Title4",
+  "folder":"Third Folder",
   "createdAt":"2022-08-07T07:14:18.612Z",
   "updatedAt":"2022-08-07T07:14:25.612Z"
   },
   {
   "id":5,
   "content":"Test",
-  "folder":"Fifth Folder",
+  "title":"Title5",
+  "folder":"Third Folder",
   "createdAt":"2022-08-07T07:14:18.612Z",
   "updatedAt":"2022-08-07T07:14:25.612Z"
   }
